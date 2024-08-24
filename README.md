@@ -46,6 +46,9 @@ When I'm not crunching numbers, you can find me training in Taekwondo, exploring
 **Other Tools:**
 - ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### 📈 GitHub Stats
 
@@ -58,3 +61,16 @@ When I'm not crunching numbers, you can find me training in Taekwondo, exploring
 ### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BarbOrt&theme=onedark)
+
+### 📅 Contribution Streak
+
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=BarbOrt&theme=radical&hide_border=true)
+
+### 📌 Highlighted Projects
+
+Here are some of the projects I’m most proud of:
+
+- **[Project 1: Video Game Industry Analysis](https://github.com/BarbOrt/video-game-industry-analysis)**: Analyzing trends in the video game industry over the past decade.
+- **[Project 2: Sales Dashboard](https://github.com/BarbOrt/sales-dashboard)**: An interactive Tableau dashboard for tracking sales performance.
+- **[Project 3: Machine Learning Model](https://github.com/BarbOrt/machine-learning-model)**: A machine learning model for predicting sales.
+
