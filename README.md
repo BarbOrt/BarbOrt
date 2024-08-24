@@ -29,7 +29,7 @@ I'm looking to collaborate on data-driven projects that make an impact. If you h
 - Email: [barbs.ortiz.ca@gmail.com](mailto:barbs.ortiz.ca@gmail.com)
 
 ### ⚡ Fun Fact
-When I'm not crunching numbers, you can find me training in Taekwondo, exploring new hiking trails, or streaming my favorite video games.
+When I'm not crunching numbers, you can find me training in Taekwondo or streaming my favorite video games.
 
 ---
 
