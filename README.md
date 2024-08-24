@@ -12,11 +12,6 @@ Certified Data Analyst with a background in Sports Management and Marketing. I'm
 - **Sports Dashboard:** Building an interactive Tableau dashboard to track medals in the olympics.
 
 ---
-### ⏱️ Coding Activity
-
-![WakaTime](https://wakatime.com/badge/user/your-wakatime-username.svg)
-
----
 
 ### 🌱 Learning & Development
 - Currently enhancing my skills in **Machine Learning** and **Advanced Data Visualization**.
