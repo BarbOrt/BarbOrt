@@ -1,4 +1,4 @@
-## Hi there <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Barbara Ortiz
+## Hi there <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Barbara
 
 
 ### 👩‍💻 About Me
@@ -9,7 +9,7 @@ Certified Data Analyst with a background in Sports Management and Marketing. I'm
 
 ### 🔭 Current Projects
 - **Video Game Industry Analysis:** Conducting a comprehensive study of video games released in the last 10 years, analyzing trends and consumer preferences.
-- **Sales Dashboard:** Building an interactive Tableau dashboard to track sales performance.
+- **Sports Dashboard:** Building an interactive Tableau dashboard to track medals in the olympics.
 
 ---
 
@@ -39,8 +39,8 @@ I'm looking to collaborate on data-driven projects that make an impact. If you h
 ---
 
 ### 📫 How to Reach Me
-- LinkedIn: [Barbara Ortiz](https://www.linkedin.com/in/b%C3%A1rbara-ortiz-299209121/)
-- Email: [barbs.ortiz.ca@gmail.com](mailto:barbs.ortiz.ca@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-ortiz-299209121/)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:barbs.ortiz.ca@gmail.com)
 
 ---
 
