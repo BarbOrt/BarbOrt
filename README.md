@@ -33,6 +33,20 @@ When I'm not crunching numbers, you can find me training in Taekwondo, exploring
 
 ---
 
+### 🛠️ Skills
+
+**Programming Languages:**
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sql&logoColor=white)
+
+**Data Visualization:**
+- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Other Tools:**
+- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 ### 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbOrt&show_icons=true&theme=radical)
