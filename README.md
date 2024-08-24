@@ -102,6 +102,7 @@ Here are some of the projects I’m most proud of:
 
 ---
 
-### ⏱️ Coding Activity
+### ⏱️ Coding Activity 📊
 
 [![WakaTime](https://wakatime.com/badge/user/@BarbOrt.svg)](https://wakatime.com/@BarbOrt)
+
