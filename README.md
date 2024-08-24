@@ -1,4 +1,4 @@
-## Hi there <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>>👋, I'm Barbara Ortiz
+![Hi](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif), I'm Barbara Ortiz
 
 ### 👩‍💻 About Me
 Certified Data Analyst with a background in Sports Management and Marketing. I'm passionate about turning data into actionable insights and solving real-world problems with Python, SQL, and data visualization tools like Tableau and Power BI.
