@@ -1,7 +1,6 @@
+<picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 ## Hi there <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Barbara 
-
-<picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 ### 👩‍💻 About Me
 Certified Data Analyst with a background in Sports Management and Marketing. I'm passionate about turning data into actionable insights and solving real-world problems with Python, SQL, and data visualization tools like Tableau and Power BI.
