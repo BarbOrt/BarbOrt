@@ -1,3 +1,5 @@
+<picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+
 ## Hi there <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Barbara 
 
 ### 👩‍💻 About Me
@@ -103,6 +105,3 @@ Here are some of the projects I’m most proud of:
 ### ⏱️ Coding Activity 📊
 
 [![WakaTime](https://wakatime.com/badge/user/@BarbOrt.svg)](https://wakatime.com/@BarbOrt)
-
----
-<picture> <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
