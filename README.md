@@ -104,8 +104,23 @@ Here are some of the projects I’m most proud of:
 
 ### ⏱️ Coding Activity 📊
 
+### ⏱️ Coding Activity 📊
+
 <a href="https://wakatime.com/@BarbOrt">
     <img src="https://wakatime.com/share/@BarbOrt/9ba4029b-96a2-4304-a689-19239e393c49.svg" width="400" />
 </a>
+
+<a href="https://wakatime.com/@BarbOrt">
+    <img src="https://wakatime.com/share/@BarbOrt/9091a26d-2459-4c5f-b87a-fa89c40977cf.svg" width="400" />
+</a>
+
+<a href="https://wakatime.com/@BarbOrt">
+    <img src="https://wakatime.com/share/@BarbOrt/21db8187-66b5-4ab8-b098-07999d99caa7.svg" width="400" />
+</a>
+
+<a href="https://wakatime.com/@BarbOrt">
+    <img src="https://wakatime.com/share/@BarbOrt/230b3d1b-6663-417e-8d38-d94e17d11d7c.svg" width="400" />
+</a>
+
 
 
