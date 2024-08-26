@@ -103,6 +103,7 @@ Here are some of the projects I’m most proud of:
 ---
 
 ### ⏱️ Coding Activity 📊
+This section provides a summary of my coding activity tracked by WakaTime. The graphs below show my programming time, the languages I've used, the operating systems I've worked on, and how my coding activity is categorized. These data reflect my work over the past 7 days.
 
 <p align="center">
     <a href="https://wakatime.com/@BarbOrt">
