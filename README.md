@@ -94,9 +94,13 @@ When I'm not crunching numbers, you can find me training in Taekwondo or streami
 
 Here are some of the projects I’m most proud of:
 
-- **[Project 1: Video Game Industry Analysis](https://github.com/BarbOrt/video-game-industry-analysis)**: Analyzing trends in the video game industry over the past decade.
-- **[Project 2: Sales Dashboard](https://github.com/BarbOrt/sales-dashboard)**: An interactive Tableau dashboard for tracking sales performance.
-- **[Project 3: Machine Learning Model](https://github.com/BarbOrt/machine-learning-model)**: A machine learning model for predicting sales.
+- **[Customer Retention Strategy for Model Fitness](https://github.com/BarbOrt/Estrategia-de-Retencion-de-Clientes-para-Model-Fitness)**: Developed a strategy to improve customer retention by analyzing data and creating interactive dashboards using Tableau.
+  
+- **[User Segmentation in Mobile Applications](https://github.com/BarbOrt/Segmentacion-de-Usuarios-en-Aplicaciones-Moviles)**: Performed user segmentation based on event data and hypothesis testing, using Python and SQL to derive actionable insights.
+
+- **[YouTube Trends Analysis Automation](https://github.com/BarbOrt/Automatizacion-del-Analisis-de-Tendencias-de-Videos-en-YouTube)**: Automated the analysis of YouTube video trends for content planning, utilizing Python for data processing and Tableau for visualization.
+
+- **[User Behavior Analysis for Food Products App](https://github.com/BarbOrt/Analisis-de-Comportamiento-del-Usuario-para-la-Aplicacion-de-Productos-Alimenticios)**: Analyzed user behavior and conducted A/A/B testing for a food products app, leveraging Python for in-depth analysis and visualization.
 
 ---
 
