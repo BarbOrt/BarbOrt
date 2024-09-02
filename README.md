@@ -37,7 +37,7 @@ I'm looking to collaborate on data-driven projects that make an impact. If you h
 ---
 
 ### 📫 How to Reach Me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-ortiz-299209121/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-ortiz/)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:barbs.ortiz.ca@gmail.com)
 
 ---
